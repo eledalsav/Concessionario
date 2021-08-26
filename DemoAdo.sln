@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ado", "Ado\Ado.csproj", "{573A9C44-AFD6-45E2-8E67-1559ED835218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ado", "Ado\Ado.csproj", "{573A9C44-AFD6-45E2-8E67-1559ED835218}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concessionario", "Concessionario\Concessionario.csproj", "{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concessionario", "Concessionario\Concessionario.csproj", "{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegozioElettronica", "NegozioElettronica\NegozioElettronica.csproj", "{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
