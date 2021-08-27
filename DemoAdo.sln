@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ado", "Ado\Ado.csproj", "{5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concessionario", "Concessionario\Concessionario.csproj", "{0F7E9349-ED24-4AA7-A962-DE924B6D5B37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegozioElettronica", "NegozioElettronica\NegozioElettronica.csproj", "{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NegozioElettronica", "NegozioElettronica\NegozioElettronica.csproj", "{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prova_week6", "Prova_week6\Prova_week6.csproj", "{C3CC96A2-D651-4657-BE42-BB9C5D019542}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A9D26E0-B7E9-427F-B0DE-52D3177BD22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3CC96A2-D651-4657-BE42-BB9C5D019542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3CC96A2-D651-4657-BE42-BB9C5D019542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3CC96A2-D651-4657-BE42-BB9C5D019542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3CC96A2-D651-4657-BE42-BB9C5D019542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
